@@ -1,0 +1,14 @@
+.footer-area {
+  background-image: url("../../images/footer.png") ;
+  background-color: $whiteish;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  @media(max-width:767px){
+    .fullscreen{
+      height:auto!important;
+    }
+  }
+
+
+}
