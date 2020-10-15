@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="459f1ce2-e77a-4f27-9d6c-866e72e1e463" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/layout/_common.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/layout/_common.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/scss/layout/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/layout/_footer.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/scss/layout/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/layout/_header.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/scss/layout/_main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/layout/_main.scss" afterDir="false" />
@@ -56,6 +60,11 @@
       <workItem from="1602666832430" duration="266000" />
       <workItem from="1602668497397" duration="387000" />
       <workItem from="1602668960068" duration="382000" />
+      <workItem from="1602669410461" duration="140000" />
+      <workItem from="1602669795746" duration="1426000" />
+      <workItem from="1602676438118" duration="348000" />
+      <workItem from="1602724285218" duration="8353000" />
+      <workItem from="1602746628204" duration="7002000" />
     </task>
     <servers />
   </component>
