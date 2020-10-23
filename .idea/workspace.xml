@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ae254017-2a98-4482-9c01-52fce116d999" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/vendor/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/vendor/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/layout/_common.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/layout/_common.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/layout/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/layout/_footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/layout/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/layout/_header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iuTGAo6jhgpiuNqk2rUHx8ZI1P" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae254017-2a98-4482-9c01-52fce116d999" name="Default Changelist" comment="" />
+      <created>1602756378860</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602756378860</updated>
+      <workItem from="1602756380050" duration="1150000" />
+      <workItem from="1602771273945" duration="9365000" />
+      <workItem from="1602807631158" duration="26000" />
+      <workItem from="1603158498503" duration="13409000" />
+      <workItem from="1603185460540" duration="3427000" />
+      <workItem from="1603193397018" duration="372000" />
+      <workItem from="1603211089594" duration="3759000" />
+      <workItem from="1603245876241" duration="8583000" />
+      <workItem from="1603298939276" duration="1012000" />
+      <workItem from="1603329625398" duration="1403000" />
+      <workItem from="1603414558657" duration="2176000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="403" y="295" key="#SCSS_Lint" timestamp="1602756437796">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="403" y="295" key="#SCSS_Lint/0.0.1440.900@0.0.1440.900" timestamp="1602756437796" />
+    <state x="370" y="235" key="EditFileWatcherDialog" timestamp="1602756556882">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="370" y="235" key="EditFileWatcherDialog/0.0.1440.900@0.0.1440.900" timestamp="1602756556882" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1602757488361">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1602757488361" />
+    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1602756376754">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1440.900@0.0.1440.900" timestamp="1602756376754" />
+  </component>
+</project>
