@@ -16,7 +16,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
     <link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet">
      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="assets/css/vendor/bootstrap.css">
     <link rel="stylesheet" href="assets/css/vendor/themify-icons.css" />
     <link rel="stylesheet" href="assets/css/main.css">
 </head>
@@ -24,10 +23,9 @@
 
 <header class="head">
     <div class="container">
+        <div class="nav-mobile"><a id="nav-toggle" href="#"><span></span></a></div>
         <div class="row">
-            <div class="logo">
-                <a href="index.html"><img src="assets/images/logo Smart Money Institute_04.png"></a>
-            </div>
+            <a href="index.html"><img class="logo-img" src="assets/images/logo Smart Money Institute_04.png"></a>
             <nav>
                 <ul class="nav-menu">
                     <li><a href="#">Trang chủ</a></li>
@@ -37,61 +35,53 @@
                     <li><a href="#">Sự kiện</a></li>
                     <li><a href="#">Tin tức</a></li>
                     <li><a href="#">Liên hệ</a></li>
-                    <div class="actived"></div>
                 </ul>
             </nav>
-            <div>
-                <div class="btn"><i class="fa fa-search"></i></div>
-            </div>
-            <div>
-
-            </div>
+            <i class="fa fa-search"></i>
         </div>
     </div>
 </header>
+<!-- start banner Area -->
+
+<div class="main"></div>
 
 
 
 <!-- start footer Area -->
 
-<footer class=" footer-area">
-        <div class="img-footer">
-            <img src="assets/images/footer.png">
-        </div>
-    <div class="container">
-        <div class="row row--flex-footer">
-            <div class="col-lg-5 col-md-6 col-sm-6">
-                <div>
-                    <h6>Liên hệ</h6>
-                    <p>
-                        319 chung cư Thuận Việt, Lý Thường Kiệt, Phưởng 15, Quận 11, Tp HCM, Việt Nam
-                        +84 904 456 456
-                        smartmoney@edu.com
-                    </p>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-6">
-                <div>
-                    <h6>Thời gian làm việc</h6>
-                    <p>
-                        Thứ hai-thứ sáu / 08:00 am - 21:00 pm
-                        Thứ bảy / 09:00 - 12:00<br>
-                        Chủ nhật và ngày lễ nghỉ<br>
-                    </p>
-                </div>
-            </div>
-        </div>
-        <div class="row row--flex-social">
-            <h6> Liên kết với chúng tôi</h6>
-            <div class="row row--flex-button">
-                <button type="button" class="btn btn-primary"><i class="fab fa-facebook-f pr-1"></i> Facebook</button>
-                <button type="button" class="btn btn-success"><i class="fab fa-google-plus-g pr-1"></i> Google</button>
-                <button type="button" class="btn btn-danger"><i class="fab fa-youtube pr-1"></i> Youtube</button>
+<footer class=" footer-area container">
 
-            </div>
-        </div>
-        <p id="direction-p">Designed and developed by Mona Media</p>
-    </div>
+     <div class="flex-container">
+         <div class="row row--flex-footer">
+             <div class="col-lg-5">
+                 <h6>Liên hệ</h6>
+                 <p>
+                     319 chung cư Thuận Việt, Lý Thường Kiệt, phường 15, Quận 11, Tp HCM, Việt Nam<br>
+                     +84 904 456 456 <br>
+                     smartmoney@edu.com
+                 </p>
+             </div>
+             <div class="col-lg-4">
+                 <h6>Thời gian làm việc</h6>
+                 <p>
+                     Thứ hai-thứ sáu / 08:00 am - 21:00 pm<br>
+                     Thứ bảy / 09:00 - 12:00<br>
+                     Chủ nhật và ngày lễ nghỉ
+                 </p>
+             </div>
+         </div>
+         <div class="row row--flex-social">
+             <h6> Liên kết với chúng tôi</h6>
+             <div class="row row--flex-button">
+                 <button type="button" class="btn btn-facebook"><i class="fab fa-facebook-f pr-1"></i> Facebook</button>
+                 <button type="button" class="btn btn-google"><i class="fab fa-google-plus-g pr-1"></i> Google</button>
+                 <button type="button" class="btn btn-youtube"><i class="fab fa-youtube pr-1"></i> Youtube</button>
+
+             </div>
+         </div>
+         <p class="paragraph">Designed and developed by Mona Media</p>
+
+     </div>
 
 </footer>
 
@@ -113,7 +103,6 @@
 
 
     <script src="assets/js/vendor/jquery-3.4.1.min.js"></script>
-    <script src="assets/js/vendor/bootstrap.min.js"></script>
     <script src="assets/js/main.js"></script>
 </body>
 </html>

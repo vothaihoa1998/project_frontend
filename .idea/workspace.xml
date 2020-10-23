@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="459f1ce2-e77a-4f27-9d6c-866e72e1e463" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scss/layout/_common.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/layout/_common.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scss/layout/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/layout/_footer.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scss/layout/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/layout/_header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scss/layout/_main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/layout/_main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="ae254017-2a98-4482-9c01-52fce116d999" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +10,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1icx0ZRN7qUrZcDykqRrRdirUWO" />
+  <component name="ProjectId" id="1iuTGAo6jhgpiuNqk2rUHx8ZI1P" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -28,43 +19,29 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets" />
-    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="459f1ce2-e77a-4f27-9d6c-866e72e1e463" name="Default Changelist" comment="" />
-      <created>1602220459152</created>
+      <changelist id="ae254017-2a98-4482-9c01-52fce116d999" name="Default Changelist" comment="" />
+      <created>1602756378860</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1602220459152</updated>
-      <workItem from="1602220461745" duration="694000" />
-      <workItem from="1602221161239" duration="2485000" />
-      <workItem from="1602252005500" duration="107000" />
-      <workItem from="1602510267650" duration="3158000" />
-      <workItem from="1602553480106" duration="17637000" />
-      <workItem from="1602581368722" duration="1502000" />
-      <workItem from="1602583251592" duration="1116000" />
-      <workItem from="1602587315298" duration="186000" />
-      <workItem from="1602658817925" duration="4442000" />
-      <workItem from="1602666364949" duration="407000" />
-      <workItem from="1602666832430" duration="266000" />
-      <workItem from="1602668497397" duration="387000" />
-      <workItem from="1602668960068" duration="382000" />
-      <workItem from="1602669410461" duration="140000" />
-      <workItem from="1602669795746" duration="1426000" />
-      <workItem from="1602676438118" duration="348000" />
-      <workItem from="1602724285218" duration="8353000" />
-      <workItem from="1602746628204" duration="7002000" />
+      <updated>1602756378860</updated>
+      <workItem from="1602756380050" duration="1150000" />
+      <workItem from="1602771273945" duration="9365000" />
+      <workItem from="1602807631158" duration="26000" />
+      <workItem from="1603158498503" duration="13409000" />
+      <workItem from="1603185460540" duration="3427000" />
+      <workItem from="1603193397018" duration="372000" />
+      <workItem from="1603211089594" duration="3759000" />
+      <workItem from="1603245876241" duration="8583000" />
+      <workItem from="1603298939276" duration="1012000" />
+      <workItem from="1603329625398" duration="1403000" />
+      <workItem from="1603414558657" duration="2517000" />
     </task>
     <servers />
   </component>
@@ -72,24 +49,21 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="403" y="276" key="#SCSS_Lint" timestamp="1602557344202">
+    <state x="403" y="295" key="#SCSS_Lint" timestamp="1602756437796">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="403" y="276" key="#SCSS_Lint/0.0.1440.900@0.0.1440.900" timestamp="1602557344202" />
-    <state x="403" y="267" key="#SCSS_Lint/0.23.1440.797@0.23.1440.797" timestamp="1602221172279" />
-    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602513610695">
+    <state x="403" y="295" key="#SCSS_Lint/0.0.1440.900@0.0.1440.900" timestamp="1602756437796" />
+    <state x="370" y="235" key="EditFileWatcherDialog" timestamp="1602756556882">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1602513610695" />
-    <state x="370" y="207" key="EditFileWatcherDialog" timestamp="1602669273019">
+    <state x="370" y="235" key="EditFileWatcherDialog/0.0.1440.900@0.0.1440.900" timestamp="1602756556882" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1602757488361">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="370" y="207" key="EditFileWatcherDialog/0.0.1440.900@0.0.1440.900" timestamp="1602669273019" />
-    <state x="370" y="206" key="EditFileWatcherDialog/0.23.1440.797@0.23.1440.797" timestamp="1602221146675" />
-    <state x="221" y="42" key="SettingsEditor" timestamp="1602669276961">
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1602757488361" />
+    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1602756376754">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="221" y="42" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1602669276961" />
-    <state x="221" y="60" key="SettingsEditor/0.23.1440.797@0.23.1440.797" timestamp="1602221138829" />
+    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1440.900@0.0.1440.900" timestamp="1602756376754" />
   </component>
 </project>
