@@ -1,0 +1,44 @@
+/*-------- Start Banner Area ------------*/
+
+.banner-area {
+  position: relative;
+  .overlay-bg{
+    background:rgba(#04091e,.30);
+  }
+  
+  h2 {
+    font-weight: 400;
+  }
+
+}
+
+.slick-dotted.slick-slider {
+  margin-bottom: 0 !important;
+}
+.slick-dots {
+  bottom: 60px !important;
+  left: 250px !important;
+  text-align: left !important;
+}
+.slick-dots li.slick-active button:before {
+  color: #ffffff !important;
+}
+
+.overlay {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+}
+
+.style-font-banner {
+  color: #ffffff;
+  font-size: 25px;
+  text-transform: uppercase;
+  width: 500px;
+  top: 220px;
+  left: 280px;
+}
+
+
