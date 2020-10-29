@@ -7256,10 +7256,6 @@ a:hover {
   color: white;
 }
 
-.main {
-  height: 55vh;
-}
-
 ul, ol, p a {
   list-style: none;
   padding: 0;
@@ -7348,6 +7344,11 @@ button {
     max-width: 38%;
   }
 }
+@media (min-width: 567px) {
+  .container {
+    max-width: 540px;
+  }
+}
 @media (min-width: 768px) {
   .container {
     max-width: 720px;
@@ -7355,14 +7356,28 @@ button {
 }
 @media (min-width: 992px) {
   .container {
-    max-width: 992px;
+    max-width: 960px;
   }
 }
 @media (min-width: 1200px) {
   .container {
-    max-width: 2000px;
+    max-width: 1140px;
   }
 }
+.flex-box-container {
+  display: flex;
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
+.area-container {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
 /*--------------------------------------------------------------
 # Header
 --------------------------------------------------------------*/
@@ -7490,19 +7505,248 @@ button {
   transform: rotate(-45deg);
 }
 
+.home-about-area img {
+  max-width: 100%;
+  height: auto;
+}
+.home-about-area .flex-box-container {
+  flex-wrap: wrap-reverse;
+  align-items: center;
+  justify-content: flex-end;
+}
+@media screen and (max-width: 992px) {
+  .home-about-area .flex-box-container {
+    justify-content: center;
+  }
+}
+.home-about-area .responsive-about-content {
+  padding-left: 19%;
+  padding-right: 110px;
+}
+.home-about-area .responsive-about-content h1 {
+  padding-bottom: 20px;
+  font-size: 35px;
+  font-weight: 400;
+  max-width: 510px;
+}
+.home-about-area .responsive-about-content .line_yellow {
+  transition: all 0.3s ease;
+  background-color: #d5ab6b;
+  position: absolute;
+  height: 100%;
+  width: 15%;
+  left: 500px;
+}
+.home-about-area .responsive-about-content .straight_line {
+  position: relative;
+  width: 950px;
+  height: 3px;
+  background-color: #e8e8e8;
+  margin-left: -500px;
+}
+.home-about-area .responsive-about-content .font-style-about {
+  max-width: 500px;
+  font-weight: 400;
+  font-size: 18px;
+  padding: 20px 0;
+}
+.home-about-area .responsive-about-content p {
+  color: #777777;
+  font-size: 12px;
+  max-width: 500px;
+  padding-bottom: 20px;
+}
+.home-about-area .btn-about {
+  width: 150px;
+  font-size: 14px;
+  text-transform: uppercase;
+  border-radius: 20px;
+  color: #d5ab6b;
+  background-color: #404040;
+}
+@media screen and (min-width: 768px) {
+  .home-about-area .responsive-about-content {
+    max-width: 100%;
+  }
+}
+@media screen and (min-width: 992px) {
+  .home-about-area .responsive-about-content {
+    max-width: 55%;
+  }
+}
+@media screen and (min-width: 768px) {
+  .home-about-area .responsive-about-content-image {
+    max-width: 100%;
+  }
+}
+@media screen and (min-width: 992px) {
+  .home-about-area .responsive-about-content-image {
+    max-width: 45%;
+  }
+}
+
+@media screen and (max-width: 1366px) {
+  .home-about-area .responsive-about-content {
+    padding-left: 4%;
+    padding-right: 4%;
+  }
+  .home-about-area .responsive-about-content h1 {
+    font-size: 28px;
+  }
+  .home-about-area .responsive-about-content .font-style-about {
+    font-size: 14px;
+  }
+}
+.home-courses-events .slick-dots {
+  bottom: 60px !important;
+  right: 420px !important;
+  text-align: right !important;
+}
+.home-courses-events .courses-events {
+  position: relative;
+  color: #ECECEC;
+}
+.home-courses-events .courses-events .courses-events-content {
+  position: absolute;
+  background: rgba(64, 64, 64, 0.8);
+  padding: 60px 0 60px 50px;
+  right: 0;
+  top: 0;
+  bottom: 0;
+}
+@media screen and (min-width: 992px) {
+  .home-courses-events .courses-events .courses-events-content {
+    width: 45%;
+  }
+}
+.home-courses-events .courses-events .courses-events-content h1 {
+  padding-bottom: 20px;
+  font-size: 35px;
+  font-weight: 400;
+  width: 320px;
+}
+.home-courses-events .courses-events .courses-events-content p {
+  font-size: 14px;
+  padding: 20px 0;
+  width: 320px;
+}
+.home-courses-events .courses-events .courses-events-content .courses-line_yellow {
+  transition: all 0.3s ease;
+  background-color: #d5ab6b;
+  position: absolute;
+  height: 100%;
+  width: 20%;
+  left: 50px;
+}
+.home-courses-events .courses-events .courses-events-content .courses-straight_line {
+  position: relative;
+  height: 3px;
+  background-color: #6F6F6F;
+  margin-left: -50px;
+}
+.home-courses-events .courses-events .courses-events-content .btn-events-courses {
+  width: 150px;
+  font-size: 12px;
+  text-transform: uppercase;
+  border-radius: 20px;
+  color: #ffffff;
+  background: linear-gradient(to right, #c9933c, #d9b076);
+}
+
+.home-book {
+  margin-top: 60px;
+  margin-bottom: 150px;
+}
+.home-book .container {
+  width: 950px;
+  padding: 0 20px;
+}
+.home-book h1 {
+  font-size: 35px;
+  font-weight: 300;
+  padding-bottom: 20px;
+}
+.home-book .line-yellow {
+  transition: all 0.3s ease;
+  background-color: #d5ab6b;
+  position: absolute;
+  height: 100%;
+  width: 20%;
+}
+.home-book .line-book {
+  position: relative;
+  height: 3px;
+  background-color: #e8e8e8;
+}
+.home-book .flex-box-container {
+  flex-direction: row;
+  margin: 30px 0;
+  justify-content: space-between;
+}
+.home-book .book-box {
+  position: relative;
+  border: 1px solid #ffffff;
+  border-radius: 5px;
+  width: 200px;
+  box-shadow: 0 15px 20px rgba(0, 0, 0, 0.1), 0 10px 5px rgba(0, 0, 0, 0.1);
+}
+.home-book .book-box:hover {
+  box-shadow: 0 19px 38px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.22);
+}
+.home-book .book-box h6 {
+  font-size: 12px;
+  padding-top: 10px;
+  font-weight: 400;
+  padding-left: 15px;
+}
+.home-book .book-box p {
+  font-size: 11px;
+  color: #d5ab6b;
+  padding-left: 15px;
+  padding-bottom: 20px;
+}
+.home-book .book-box img {
+  transition: width 2s, height 2s, transform 2s;
+}
+.home-book .book-box img:hover {
+  transform: rotate(10deg);
+}
+.home-book .book-box .style-book1 {
+  height: 170px;
+  width: 110px;
+  margin: 10px 40px 20px 40px;
+}
+.home-book .book-box .btn-buy {
+  position: absolute;
+  right: 20px;
+  width: 70px;
+  bottom: -15px;
+  font-size: 9px;
+  text-transform: uppercase;
+  border-radius: 20px;
+  color: black;
+  background-color: #ebebeb;
+  transition: width 2s, height 2s, transform 2s;
+}
+.home-book .book-box .btn-buy:hover {
+  transform: rotate(10deg);
+  color: #ffffff;
+  background: linear-gradient(to right, #c9933c, #d9b076);
+}
+
 .footer-area {
   display: flex;
   flex-direction: column;
   background-image: url("../images/footer.png");
   background-size: 480px 300px;
   background-repeat: no-repeat;
-  padding: 32px 10px;
+  padding: 32px 20px;
   align-items: flex-end;
 }
 .footer-area .flex-container {
   display: flex;
   flex-direction: column;
-  width: 900px;
+  width: 880px;
 }
 .footer-area .row--flex-footer {
   align-items: flex-start;
@@ -7534,6 +7778,9 @@ button {
   }
 }
 @media screen and (max-width: 768px) {
+  .footer-area .btn {
+    margin-bottom: 10px;
+  }
   .footer-area .row--flex-footer {
     width: 680px;
   }
@@ -7558,7 +7805,8 @@ button {
   }
   .footer-area .row--flex-button {
     flex-wrap: wrap;
-    justify-content: space-between;
+    align-items: center;
+    justify-content: space-evenly;
   }
   .footer-area .paragraph {
     width: inherit;
@@ -7613,6 +7861,48 @@ button {
 .footer-area .btn-youtube:active {
   background-color: #dc3833;
   color: #ffffff;
+}
+
+/*-------- Start Banner Area ------------*/
+.banner-area {
+  position: relative;
+}
+.banner-area .overlay-bg {
+  background: rgba(4, 9, 30, 0.3);
+}
+.banner-area h2 {
+  font-weight: 400;
+}
+
+.slick-dotted.slick-slider {
+  margin-bottom: 0 !important;
+}
+
+.slick-dots {
+  bottom: 60px !important;
+  left: 250px !important;
+  text-align: left !important;
+}
+
+.slick-dots li.slick-active button:before {
+  color: #ffffff !important;
+}
+
+.overlay {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+}
+
+.style-font-banner {
+  color: #ffffff;
+  font-size: 25px;
+  text-transform: uppercase;
+  width: 500px;
+  top: 220px;
+  left: 280px;
 }
 
 /*# sourceMappingURL=main.css.map */

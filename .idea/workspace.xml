@@ -1,7 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae254017-2a98-4482-9c01-52fce116d999" name="Default Changelist" comment="" />
+    <list default="true" id="ae254017-2a98-4482-9c01-52fce116d999" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/css/vendor/slick-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/vendor/slick.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/banner-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/book-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/book-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/book-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/book-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/courses-events.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/sec-bg-home-ab-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/vendor/slick.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/slick-1.8.1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/slick-1.8.1/CONTRIBUTING.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/slick-1.8.1/ISSUE_TEMPLATE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/slick-1.8.1/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/slick-1.8.1/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/slick-1.8.1/README.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/slick-1.8.1/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/slick-1.8.1/component.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/slick-1.8.1/css/slick-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/slick-1.8.1/css/slick-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/slick-1.8.1/css/slick.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/slick-1.8.1/css/slick.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/slick-1.8.1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/slick-1.8.1/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/slick-1.8.1/slick.jquery.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/slick-1.8.1/slick/ajax-loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/slick-1.8.1/slick/config.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/slick-1.8.1/slick/fonts/slick.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/slick-1.8.1/slick/fonts/slick.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/slick-1.8.1/slick/fonts/slick.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/slick-1.8.1/slick/fonts/slick.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/slick-1.8.1/slick/slick-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/slick-1.8.1/slick/slick-theme.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/slick-1.8.1/slick/slick-theme.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/slick-1.8.1/slick/slick.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/slick-1.8.1/slick/slick.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/slick-1.8.1/slick/slick.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/slick-1.8.1/slick/slick.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/slick-1.8.1/slick/slick.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/6051.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/layout/_common.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/layout/_common.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/layout/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/layout/_footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/layout/_main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/layout/_main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/page/_banner.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/page/_banner.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +70,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/css/vendor" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/css/vendor" />
+      <recent name="$PROJECT_DIR$/assets/js/vendor" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -42,6 +100,17 @@
       <workItem from="1603298939276" duration="1012000" />
       <workItem from="1603329625398" duration="1403000" />
       <workItem from="1603414558657" duration="2517000" />
+      <workItem from="1603514035290" duration="5807000" />
+      <workItem from="1603532931778" duration="6566000" />
+      <workItem from="1603588998409" duration="1687000" />
+      <workItem from="1603617807569" duration="7205000" />
+      <workItem from="1603643622352" duration="6436000" />
+      <workItem from="1603672725087" duration="2341000" />
+      <workItem from="1603693738378" duration="2252000" />
+      <workItem from="1603696665562" duration="53000" />
+      <workItem from="1603696792699" duration="263000" />
+      <workItem from="1603697064851" duration="9370000" />
+      <workItem from="1603953709286" duration="262000" />
     </task>
     <servers />
   </component>
@@ -53,14 +122,18 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="403" y="295" key="#SCSS_Lint/0.0.1440.900@0.0.1440.900" timestamp="1602756437796" />
-    <state x="370" y="235" key="EditFileWatcherDialog" timestamp="1602756556882">
+    <state x="442" y="250" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603443225391">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="370" y="235" key="EditFileWatcherDialog/0.0.1440.900@0.0.1440.900" timestamp="1602756556882" />
-    <state x="221" y="89" key="SettingsEditor" timestamp="1602757488361">
+    <state x="442" y="250" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1603443225391" />
+    <state x="370" y="235" key="EditFileWatcherDialog" timestamp="1603699420001">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1602757488361" />
+    <state x="370" y="235" key="EditFileWatcherDialog/0.0.1440.900@0.0.1440.900" timestamp="1603699420001" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1603699421892">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1603699421892" />
     <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1602756376754">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

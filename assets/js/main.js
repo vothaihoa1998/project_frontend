@@ -16,3 +16,59 @@ $('.dropdown').on('click', function(e) {
         });
     }); // end DOM ready
 })(jQuery); // end jQuery
+
+// slick
+
+$(document).ready(function(){
+    $('.slick-banner').slick({
+        mobileFirst: true,
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        autoplay: false,
+        pauseOnDotsHover:true,
+        autoplaySpeed:1200,
+        dots: true,
+        arrows: false,
+        infinite: true
+
+        // dots: true,
+        // infinite: true,
+        // speed: 300,
+        // slidesToShow: 1,
+        // adaptiveHeight: true
+    });
+});
+
+$(document).ready(function(){
+    $('.home-courses-events').slick({
+        mobileFirst: true,
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        autoplay: false,
+        pauseOnDotsHover:true,
+        autoplaySpeed:1200,
+        dots: true,
+        arrows: false,
+        infinite: true
+
+        // dots: true,
+        // infinite: true,
+        // speed: 300,
+        // slidesToShow: 1,
+        // adaptiveHeight: true
+    });
+});
+
+// $(document).ready(function(){
+//     $('.home-book').slick({
+//         dots: true,
+//         infinite: true,
+//         speed: 300,
+//         slidesToShow: 1,
+//         adaptiveHeight: true
+//     });
+//
+// });
+
+
+
