@@ -2,56 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae254017-2a98-4482-9c01-52fce116d999" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/css/vendor/slick-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/vendor/slick.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/banner-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/book-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/book-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/book-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/book-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/courses-events.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/sec-bg-home-ab-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/vendor/slick.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/slick-1.8.1/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/slick-1.8.1/CONTRIBUTING.markdown" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/slick-1.8.1/ISSUE_TEMPLATE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/slick-1.8.1/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/slick-1.8.1/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/slick-1.8.1/README.markdown" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/slick-1.8.1/bower.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/slick-1.8.1/component.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/slick-1.8.1/css/slick-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/slick-1.8.1/css/slick-theme.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/slick-1.8.1/css/slick.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/slick-1.8.1/css/slick.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/slick-1.8.1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/slick-1.8.1/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/slick-1.8.1/slick.jquery.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/slick-1.8.1/slick/ajax-loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/slick-1.8.1/slick/config.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/slick-1.8.1/slick/fonts/slick.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/slick-1.8.1/slick/fonts/slick.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/slick-1.8.1/slick/fonts/slick.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/slick-1.8.1/slick/fonts/slick.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/slick-1.8.1/slick/slick-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/slick-1.8.1/slick/slick-theme.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/slick-1.8.1/slick/slick-theme.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/slick-1.8.1/slick/slick.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/slick-1.8.1/slick/slick.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/slick-1.8.1/slick/slick.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/slick-1.8.1/slick/slick.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/slick-1.8.1/slick/slick.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/6051.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scss/layout/_common.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/layout/_common.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scss/layout/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/layout/_footer.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scss/layout/_main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/layout/_main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scss/page/_banner.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/page/_banner.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/slick-1.8.1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/slick-1.8.1/CONTRIBUTING.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/slick-1.8.1/ISSUE_TEMPLATE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/slick-1.8.1/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/slick-1.8.1/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/slick-1.8.1/README.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/slick-1.8.1/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/slick-1.8.1/component.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/slick-1.8.1/css/slick-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/slick-1.8.1/css/slick-theme.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/slick-1.8.1/css/slick.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/slick-1.8.1/css/slick.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/slick-1.8.1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/slick-1.8.1/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/slick-1.8.1/slick.jquery.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/slick-1.8.1/slick/ajax-loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/slick-1.8.1/slick/config.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/slick-1.8.1/slick/fonts/slick.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/slick-1.8.1/slick/fonts/slick.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/slick-1.8.1/slick/fonts/slick.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/slick-1.8.1/slick/fonts/slick.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/slick-1.8.1/slick/slick-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/slick-1.8.1/slick/slick-theme.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/slick-1.8.1/slick/slick-theme.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/slick-1.8.1/slick/slick.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/slick-1.8.1/slick/slick.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/slick-1.8.1/slick/slick.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/slick-1.8.1/slick/slick.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/slick-1.8.1/slick/slick.scss" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +90,7 @@
       <workItem from="1603696665562" duration="53000" />
       <workItem from="1603696792699" duration="263000" />
       <workItem from="1603697064851" duration="9370000" />
-      <workItem from="1603953709286" duration="262000" />
+      <workItem from="1603953709286" duration="1168000" />
     </task>
     <servers />
   </component>
