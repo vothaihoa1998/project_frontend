@@ -60,7 +60,7 @@ $(document).ready(function(){
 });
 
 // $(document).ready(function(){
-//     $('.home-book').slick({
+//     $('.home-book .flex-box-container').slick({
 //         dots: true,
 //         infinite: true,
 //         speed: 300,
