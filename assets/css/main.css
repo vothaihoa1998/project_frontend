@@ -7869,8 +7869,10 @@ button {
 }
 .home-course-online .list-courses-online .box-container-course .course-rating-stars .start {
   color: #E1E1E1;
+  font-size: 12px;
 }
 .home-course-online .list-courses-online .box-container-course .course-rating-stars .start.active {
+  font-size: 12px;
   color: #DAB279;
 }
 .home-course-online .list-courses-online .box-container-course .book-item-wrap {
@@ -7902,6 +7904,7 @@ button {
 .home-course-online .list-courses-online .box-container-course p {
   font-size: 13px;
   padding-left: 10px;
+  padding-bottom: 20px;
 }
 .home-course-online .list-courses-online .box-container-course:hover {
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2), 0 15px 12px rgba(0, 0, 0, 0.2);
