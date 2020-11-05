@@ -29,11 +29,8 @@ img {
   max-width: 100%;
 }
 body{
-  position: relative;
-  //font-family: "Poppins", sans-serif;
-  ////font-size: 14px;
-  //font-weight: 300;
-  //line-height: 1.625em;
+background-color: rgb(248, 248, 248);
+
 }
 
 .row {
@@ -144,16 +141,44 @@ button {
   margin-left: auto;
 }
 
-// responsive about screen.
-//@media screen and (min-width: 768px) {
-//  .responsive-about-content {
-//    max-width: 100%;
-//  }
-//}
-//@media screen and (min-width: 992px) {
-//  .responsive-about-content {
-//    max-width: 50%;
-//  }
-//}
+.line-yellow {
+  transition: all 0.3s ease;
+  background-color: $color-warning;
+  position: absolute;
+  height: 100%;
+  width: 20%;
+}
+
+.line-book {
+  position: relative;
+  height: 3px;
+  background-color: #e8e8e8;
+}
+
+.item-Date {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+  height: 60px;
+  width: 50px;
+  background-color: #ffffff;
+  hr {
+    margin: 0;
+    width: 80%;
+    border: none;
+    border-bottom: 1px solid #dbdbdb;
+  }
+  .time-date {
+    color: #C9923C;
+  }
+  .time-month {
+    color: #9b9a9a;
+  }
+}
+
+
+
 
 
