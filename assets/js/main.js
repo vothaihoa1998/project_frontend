@@ -40,7 +40,7 @@ $(document).ready(function(){
 });
 
 $(document).ready(function(){
-    $('.home-courses-events').slick({
+    $('.events-img').slick({
         mobileFirst: true,
         slidesToShow: 1,
         slidesToScroll: 1,
@@ -69,6 +69,30 @@ $(document).ready(function(){
 //     });
 //
 // });
+
+$(document).ready(function(){
+    $('.readers-img').slick({
+        mobileFirst: true,
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        autoplay: true,
+        pauseOnDotsHover:true,
+        autoplaySpeed:1200,
+        dots: true,
+        arrows: false,
+        infinite: true
+
+        // dots: true,
+        // infinite: true,
+        // speed: 300,
+        // slidesToShow: 1,
+        // adaptiveHeight: true
+    });
+    // var demo = document.getElementsByClassName('slick-dots');
+    // var btn = document.createElement("BUTTON");
+    // btn.innerHTML = "CLICK ME";
+    // demo[0].appendChild(btn);
+});
 
 
 
