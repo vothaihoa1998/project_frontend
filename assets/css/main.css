@@ -7415,6 +7415,38 @@ button {
   color: #9b9a9a;
 }
 
+.slick-dots li button:before {
+  font-size: 20px !important;
+  color: transparent !important;
+  content: "" !important;
+  border-radius: 50%;
+  border: 1px solid #ffffff;
+  width: 12px !important;
+  height: 12px !important;
+  opacity: 0.25;
+  z-index: 15;
+}
+
+.slick-dots li.slick-active {
+  background-color: #fff;
+  border: none;
+  border-radius: 50%;
+  width: 12px;
+  height: 12px;
+}
+
+.home-courses-events .slick-dots {
+  display: inline !important;
+}
+
+.btn-pause-play {
+  background-color: transparent;
+  color: #CDA872;
+  border: none;
+  font-size: 14px;
+  outline: none;
+}
+
 /*--------------------------------------------------------------
 # Header
 --------------------------------------------------------------*/
@@ -7447,6 +7479,9 @@ button {
   display: flex;
 }
 .head .nav-menu a {
+  display: flex;
+  flex-direction: column;
+  position: relative;
   height: 83px;
   padding: 30px 10px;
   color: #f2f2f2;
@@ -7456,7 +7491,14 @@ button {
 }
 .head .nav-menu a:hover {
   color: #d5ab6b;
-  border-bottom: 3px solid #d5ab6b;
+}
+.head .nav-menu a:hover:after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  height: 4px;
+  width: 80%;
+  background: linear-gradient(to right, #c9933c, #d9b076);
 }
 .head .nav-menu a:active {
   color: #679b9b;
@@ -7466,7 +7508,6 @@ button {
   position: absolute;
   top: 0;
   right: 0;
-  background: #404040;
   height: 70px;
   width: 70px;
   margin-right: 20px;
@@ -7483,7 +7524,7 @@ button {
 }
 @media only screen and (max-width: 991px) {
   .head .row {
-    justify-content: space-between;
+    justify-content: space-around;
   }
   .head .row :nth-child(2) {
     order: 2;
@@ -7517,7 +7558,7 @@ button {
   border-radius: 1px;
   height: 5px;
   width: 35px;
-  background: #ffffff;
+  background: linear-gradient(to right, #c9933c, #d9b076);
   position: absolute;
   display: block;
   content: "";
@@ -7530,7 +7571,7 @@ button {
   bottom: -10px;
 }
 .head #nav-toggle.active span {
-  background-color: transparent;
+  background: transparent;
 }
 .head #nav-toggle.active span:before, .head #nav-toggle.active span:after {
   top: 0;
@@ -7635,11 +7676,6 @@ button {
     font-size: 14px;
   }
 }
-.home-courses-events .slick-dots {
-  bottom: 60px !important;
-  right: 420px !important;
-  text-align: right !important;
-}
 .home-courses-events .courses-events {
   position: relative;
   color: #ECECEC;
@@ -7719,7 +7755,7 @@ button {
   background-color: #e8e8e8;
 }
 .home-book .flex-box-container {
-  flex-direction: row;
+  flex-wrap: wrap;
   margin: 30px 0;
   justify-content: space-between;
 }
@@ -7728,6 +7764,7 @@ button {
   border: 1px solid #ffffff;
   border-radius: 5px;
   width: 23%;
+  background-color: #ffffff;
   box-shadow: 0 15px 20px rgba(0, 0, 0, 0.1), 0 10px 5px rgba(0, 0, 0, 0.1);
 }
 .home-book .book-box:hover {
@@ -8248,7 +8285,7 @@ button {
   display: flex;
   flex-direction: column;
   text-align: center;
-  transform: translate(25%, 30%);
+  transform: translate(23%, 30%);
 }
 .readers .area-container .readers-content h1 {
   font-size: 35px;
@@ -8287,8 +8324,11 @@ button {
   font-size: 12px;
   color: #d5ab6b;
 }
+.readers .slick-dots li.slick-active {
+  background-color: #d5ab6b !important;
+}
 .readers .slick-dots {
-  margin-left: 450px;
+  left: 47% !important;
 }
 .readers .slick-dots li.slick-active button:before {
   color: #D9B177 !important;
@@ -8297,11 +8337,14 @@ button {
 .footer-area {
   display: flex;
   flex-direction: column;
-  background-image: url("../images/footer_01.png");
+  background-image: url("../images/footer.png");
   background-size: 480px 300px;
   background-repeat: no-repeat;
   padding: 32px 20px;
   align-items: flex-end;
+}
+.footer-area .btn {
+  width: 110px;
 }
 .footer-area .flex-container {
   display: flex;
@@ -8378,6 +8421,11 @@ button {
   font-weight: 400;
   padding-bottom: 10px;
 }
+.footer-area h5 {
+  font-size: 18px;
+  color: #444444;
+  font-weight: 400;
+}
 .footer-area p {
   font-size: 13px;
   color: #898989;
@@ -8386,6 +8434,8 @@ button {
 .footer-area .btn-facebook {
   background-color: #4c6ea9;
   color: #ffffff;
+  font-size: 12px;
+  height: auto;
 }
 .footer-area .btn-facebook:hover {
   background-color: #ffffff;
@@ -8399,6 +8449,8 @@ button {
 .footer-area .btn-google {
   background-color: #ff5838;
   color: #ffffff;
+  font-size: 12px;
+  height: auto;
 }
 .footer-area .btn-google:hover {
   background-color: #ffffff;
@@ -8412,6 +8464,8 @@ button {
 .footer-area .btn-youtube {
   background-color: #dc3833;
   color: #ffffff;
+  font-size: 12px;
+  height: auto;
 }
 .footer-area .btn-youtube:hover {
   background-color: #ffffff;

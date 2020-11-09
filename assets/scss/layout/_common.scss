@@ -180,5 +180,74 @@ button {
 
 
 
+//.slick-dots li{
+//  //max-height: 10px;
+//  //margin: 0 0.25rem;
+//  background: transparent;
+//  border-radius: 50%;
+//  border: none;
+//}
+//.slick-dots li button{
+//  display: block;
+//  border-radius: 50%;
+//  //width: 1px;
+//  //height: 1px;
+//  padding: 0;
+//  font-size: 0;
+//  outline:none;
+//  border: 1px solid #FFF;
+//  background-color: transparent;
+//  color: transparent;
+//}
+//.slick-dots li.slick-active button{
+//  background-color: #FFF;
+//  border: none;
+//}
+//.slick-dots li.slick-active {
+//  background-color: #fff;
+//  border: none;
+//}
+//.slick-list .draggable{
+//  //height: 300px;
+//  //width: 200px;
+//  overflow: hidden;
+//}
+
+.slick-dots li button:before {
+  font-size: 20px !important;
+  color: transparent !important;
+  content: "" !important;
+  border-radius: 50%;
+  border: 1px solid #ffffff;
+  width: 12px !important;
+  height: 12px !important;
+  opacity: 0.25;
+  z-index: 15;
+}
+
+
+.slick-dots li.slick-active {
+  background-color: #fff;
+  border: none;
+  border-radius: 50%;
+  width: 12px ;
+  height: 12px;
+}
+.home-courses-events .slick-dots {
+ display: inline !important;
+}
+// btn pause/play
+.btn-pause-play{
+  background-color: transparent;
+  color: #CDA872;
+  border: none;
+  font-size: 14px;
+  outline:none;
+}
+
+
+
+
+
 
 
