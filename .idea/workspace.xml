@@ -3,35 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="ae254017-2a98-4482-9c01-52fce116d999" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/slick-1.8.1/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/slick-1.8.1/CONTRIBUTING.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/slick-1.8.1/ISSUE_TEMPLATE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/slick-1.8.1/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/slick-1.8.1/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/slick-1.8.1/README.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/slick-1.8.1/bower.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/slick-1.8.1/component.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/slick-1.8.1/css/slick-theme.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/slick-1.8.1/css/slick-theme.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/slick-1.8.1/css/slick.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/slick-1.8.1/css/slick.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/slick-1.8.1/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/slick-1.8.1/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/slick-1.8.1/slick.jquery.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/slick-1.8.1/slick/ajax-loader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/slick-1.8.1/slick/config.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/slick-1.8.1/slick/fonts/slick.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/slick-1.8.1/slick/fonts/slick.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/slick-1.8.1/slick/fonts/slick.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/slick-1.8.1/slick/fonts/slick.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/slick-1.8.1/slick/slick-theme.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/slick-1.8.1/slick/slick-theme.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/slick-1.8.1/slick/slick-theme.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/slick-1.8.1/slick/slick.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/slick-1.8.1/slick/slick.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/slick-1.8.1/slick/slick.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/slick-1.8.1/slick/slick.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/slick-1.8.1/slick/slick.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/base/_typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/base/_typography.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/helpers/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/helpers/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/layout/_common.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/layout/_common.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/layout/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/layout/_header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/layout/_main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/layout/_main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/page/_banner.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/page/_banner.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +31,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/css/vendor" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
   <component name="RecentsManager">
@@ -90,7 +71,31 @@
       <workItem from="1603696665562" duration="53000" />
       <workItem from="1603696792699" duration="263000" />
       <workItem from="1603697064851" duration="9370000" />
-      <workItem from="1603953709286" duration="1168000" />
+      <workItem from="1603953709286" duration="8320000" />
+      <workItem from="1604023370003" duration="17995000" />
+      <workItem from="1604203781633" duration="173000" />
+      <workItem from="1604367605787" duration="133000" />
+      <workItem from="1604466580035" duration="2697000" />
+      <workItem from="1604493217035" duration="11349000" />
+      <workItem from="1604539520311" duration="20919000" />
+      <workItem from="1604645471209" duration="2167000" />
+      <workItem from="1604651488420" duration="3293000" />
+      <workItem from="1604666435435" duration="3000" />
+      <workItem from="1604794450123" duration="4000000" />
+      <workItem from="1604933122724" duration="9823000" />
+      <workItem from="1604946084533" duration="26000" />
+      <workItem from="1605050933818" duration="122000" />
+      <workItem from="1605105953635" duration="136000" />
+      <workItem from="1605110176264" duration="264000" />
+      <workItem from="1605145980837" duration="39000" />
+      <workItem from="1605146848773" duration="1795000" />
+      <workItem from="1605156116499" duration="641000" />
+      <workItem from="1605165528022" duration="6177000" />
+      <workItem from="1605188839159" duration="1267000" />
+      <workItem from="1605192866357" duration="1719000" />
+      <workItem from="1605195048880" duration="3501000" />
+      <workItem from="1605232575310" duration="14954000" />
+      <workItem from="1605271793197" duration="17000" />
     </task>
     <servers />
   </component>
@@ -110,13 +115,23 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="370" y="235" key="EditFileWatcherDialog/0.0.1440.900@0.0.1440.900" timestamp="1603699420001" />
+    <state x="1701" y="166" key="RollbackChangesDialog" timestamp="1605166088406">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1701" y="166" key="RollbackChangesDialog/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605166088406" />
     <state x="221" y="89" key="SettingsEditor" timestamp="1603699421892">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1603699421892" />
-    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1602756376754">
+    <state x="0" y="0" width="1440" height="900" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1605195175451">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1440.900@0.0.1440.900" timestamp="1602756376754" />
+    <state x="0" y="0" width="1440" height="900" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1605195175451" />
+    <state x="0" y="0" width="1440" height="900" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605166362143" />
+    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1440.900@0.0.1440.900" timestamp="1604032523166" />
+    <state x="1563" y="236" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1605166047521">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1563" y="236" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605166047521" />
   </component>
 </project>

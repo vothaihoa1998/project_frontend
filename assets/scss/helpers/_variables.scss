@@ -3,6 +3,8 @@
 //
 
 // Default
+$color-yellow-home: background linear-gradient(to right, rgb(201, 147, 60) , rgb(217, 176, 118));
+
 $color-default: #f2f2f2;
 $color-default-lightest: #fff;
 $color-default-lighter: #c2c2c2;
@@ -45,10 +47,9 @@ $hsize: $size/2;
 //
 //$info-phone-horizontal: "only screen and (max-width : 767px)";
 //$info-phone: "only screen and (max-width : 640px)";
-
-$info-tablet-horizontal: "only screen and (max-width : 1160px)";
-$info-tablet-vertical: "only screen and (max-width : 900px)";
-$info-phone: "only screen and (max-width : 767px)";
-$info-phone-4: "only screen and (max-width : 320px)";
+$info-pc:"only screen and (max-width: 1200px)";
+$info-tablet: "only screen and (max-width : 992px)";
+$info-phone: "only screen and (max-width : 768px)";
+$info-phone-4: "only screen and (max-width : 375px)";
 
 $primary-green: #0eb493;
